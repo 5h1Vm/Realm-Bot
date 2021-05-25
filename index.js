@@ -163,5 +163,6 @@ bot.on("guildMemberRemove", (member) => {
 ///// Bello Script Ends/////
 ////////////////////////////
 
+// More Scripts will be added soon..
 
 bot.login(config.token);
